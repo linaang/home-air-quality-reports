@@ -14,7 +14,7 @@ The report provides an overview of the air quality in participants' home, focusi
 The hourly average ambient (outdoor) PM<sub>2.5</sub> concentration levels are incorporated into the visualization of PM<sub>2.5</sub> air quality in participants' home. The historical ambient (outdoor) PM<sub>2.5</sub> data is sourced from the National Environmental Agency’s (NEA) API retrieved from <a href="https://data.gov.sg/datasets/d_e1058d6974c877257e32048ab128ad83/view#tag/default/GET/pm25" target="_blank">data.gov.sg</a>. NEA's PM<sub>2.5</sub> data is split into five regions in Singapore—North, South, East, West, and Central - with readings recorded every hour. The readings from the region where your home is located are used to represent the outdoor air quality.
 </div>
 
-<i>Reported PM<sub>2.5</sub> concentrations for home PM<sub>2.5</sub> concentration are raw and uncalibrated values.</i>
+Reported PM<sub>2.5</sub> concentrations for home PM<sub>2.5</sub> concentration are raw and uncalibrated values.
 
 ## Table of contents
 - Introduction (what the report entails)
