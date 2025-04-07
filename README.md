@@ -1,7 +1,7 @@
-## How to locate home air quality report 
+## URL to home air quality report 
 - Participants can read their home air quality report by entering the full url (base url + customized url) or assessing it using the link sent to them.  
 - base url: https://linaang.github.io/home-air-quality-reports/ 
-### +
+- #### +
 - customized url: householdID.html
 - full url: https://linaang.github.io/home-air-quality-reports/householdID.html
 
