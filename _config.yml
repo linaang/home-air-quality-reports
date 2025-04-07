@@ -1,0 +1,5 @@
+title: Repository for reports of home air quality for participants
+description: Participants will be able to view their home air quality report by entering their unique household ID given to them.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-slate
