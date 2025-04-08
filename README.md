@@ -20,5 +20,5 @@ The hourly average ambient (outdoor) PM<sub>2.5</sub> concentration levels are i
 - Introduction (what the report entails)
 - Daily average PM<sub>2.5</sub> concentration over the sampling period (Home vs Outdoor)
 - Hourly average PM<sub>2.5</sub> concentration at Home (Weekdays vs Weekends)
-- Hourly average for each day (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday)
+- Hourly average for each day of the week (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday)
 - Contact information
