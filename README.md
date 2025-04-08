@@ -31,6 +31,7 @@ The hourly average ambient (outdoor) PM₂.₅ concentration levels are incorpor
 - <b>full url:</b> <i>https://linaang.github.io/home-air-quality-reports/householdID.html</i>
   
 ## Copyright
+<div>
 The data and content in this repository are copyrighted and may not be reused without permission.
-For more information or permission requests, please contact: Lina Ang(mailto:ephanli@nus.edu.sg)
-
+For more information or permission requests, please contact: <a href="mailto:ephanli@nus.edu.sg">Lina Ang</a>
+</div>
