@@ -1,19 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HKHHZVL98L"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-HKHHZVL98L');
-</script>
-
-## URL to home air quality report 
-- Participants can read their home air quality report by entering the full url <b>(base url + customized url)</b> or assessing it using the link sent to them.  
-- <b>base url:</b> <i>https://linaang.github.io/home-air-quality-reports/</i> 
-- ### +
-- <b>customized url:</b> <i>householdID.html</i>
-- <b>full url:</b> <i>https://linaang.github.io/home-air-quality-reports/householdID.html</i>
-
 ## About
 <div style="text-align: justify; line-height: 1.8; margin-bottom: 20px;">
 The report provides an overview of the air quality in participants' home, focusing on PM<sub>2.5</sub> concentration levels. Descriptive statistics (mean, minimum, and maximum) and visualizations are used to illustrate the results. According to the World Health Organization (WHO) air quality guidelines 2021, the 24-hour mean PM<sub>2.5</sub> concentration should not exceed 15 µg/m<sup>3</sup>, read more information on WHO air quality guidelines <a href="https://www.who.int/news-room/feature-stories/detail/what-are-the-who-air-quality-guidelines" target="_blank">here</a>.
@@ -31,3 +15,10 @@ The hourly average ambient (outdoor) PM<sub>2.5</sub> concentration levels are i
 - Hourly average PM<sub>2.5</sub> concentration at Home (Weekdays vs Weekends)
 - Hourly average for each day of the week (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday)
 - Contact information
+
+## URL to home air quality report 
+- Participants can read their home air quality report by entering the full url <b>(base url + customized url)</b> or assessing it using the link sent to them.  
+- <b>base url:</b> <https://linaang.github.io/home-air-quality-reports/> 
+- ### +
+- <b>customized url:</b> <i>householdID.html</i>
+- <b>full url:</b> <i>https://linaang.github.io/home-air-quality-reports/householdID.html</i>
