@@ -32,5 +32,5 @@ The hourly average ambient (outdoor) PM₂.₅ concentration levels are incorpor
   
 ## Copyright
 The data and content in this repository are copyrighted and may not be reused without permission.
-For more information or permission requests, please contact: *Lina Ang**(mailto:ephanli@nus.edu.sg)
+For more information or permission requests, please contact: Lina Ang(mailto:ephanli@nus.edu.sg)
 
