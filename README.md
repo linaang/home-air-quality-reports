@@ -12,7 +12,6 @@ The hourly average ambient (outdoor) PM₂.₅ concentration levels are incorpor
 </div>
 
 ## Table of contents
-<div style="text-align: justify; line-height: 1.8; margin-bottom: 20px;">
 - Introduction (what the report entails)
 - Daily average PM₂.₅ concentration over the sampling period (Home vs Outdoor)
 - Hourly average PM₂.₅ concentration at Home (Weekdays vs Weekends)
@@ -25,19 +24,16 @@ The hourly average ambient (outdoor) PM₂.₅ concentration levels are incorpor
   - Saturday
   - Sunday
 - Contact information
-</div>
 
 ## URL to home air quality report 
-<div style="text-align: justify; line-height: 1.8; margin-bottom: 20px;">
 - Participants can read their home air quality report by entering the full url <b>(base url + customized url)</b> or assessing it using the link sent to them.  
 - <b>base url:</b> <https://linaang.github.io/home-air-quality-reports/> 
 - &nbsp; +
 - <b>customized url:</b> <i>householdID.html</i>
 - <b>full url:</b> <i>https://linaang.github.io/home-air-quality-reports/householdID.html</i>
-</div>
   
 ## Copyright
 <div style="text-align: justify; line-height: 1.8; margin-bottom: 20px;">
 The data and content in this repository are copyrighted and may not be reused without permission.
-For more information or permission requests, please contact: <ephanli@nus.edu.sg>
+For more information or permission requests, please contact: **ephanli@nus.edu.sg**
 </div>
