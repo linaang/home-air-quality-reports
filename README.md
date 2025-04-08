@@ -1,3 +1,12 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HKHHZVL98L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-HKHHZVL98L');
+</script>
+
 ## URL to home air quality report 
 - Participants can read their home air quality report by entering the full url <b>(base url + customized url)</b> or assessing it using the link sent to them.  
 - <b>base url:</b> <i>https://linaang.github.io/home-air-quality-reports/</i> 
