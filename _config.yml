@@ -1,5 +1,5 @@
 include: ["header.html"]
 title: Repository for home air quality reports for participants
-description: Participants can view their home air quality report using their unique household ID.
+description: Participants will be able to view their home air quality report
 show_downloads: false
 theme: jekyll-theme-slate
