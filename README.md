@@ -26,7 +26,7 @@ Reported PM₂.₅ concentrations for home PM₂.₅ concentration are raw and u
 - Contact information
 
 ## Home air quality report 
-Participants can view their home air quality report by assessing the unique URL sent to them or through the link below.  
+Participants can view their home air quality report by assessing the unique URL sent to them or through the link below:  
 <table>
 <thead>
 <tr>
