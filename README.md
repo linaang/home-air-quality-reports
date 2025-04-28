@@ -25,12 +25,31 @@ Reported PM₂.₅ concentrations for home PM₂.₅ concentration are raw and u
   - Sunday
 - Contact information
 
-## URL to home air quality report 
-Participants can read their home air quality report by entering the full url <b>(base url + customized url)</b> or assessing it using the link sent to them.  
-- <b>base url:</b> <https://linaang.github.io/home-air-quality-reports/> 
-  &nbsp; +
-- <b>customized url:</b> <i>householdID.html</i>
-- <b>full url:</b> <i>https://linaang.github.io/home-air-quality-reports/householdID.html</i>
+## Home air quality report 
+Participants can read their home air quality report by assessing the unique URL sent to them.  
+<table>
+<thead>
+<tr>
+<th>English Version</th>
+<th>Chinese Version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://your-username.github.io/your-repo-name/participant1_eng">Participant 1 ENG</a></td>
+<td><a href="https://your-username.github.io/your-repo-name/participant1_chn">Participant 1 CHN</a></td>
+</tr>
+<tr>
+<td><a href="https://your-username.github.io/your-repo-name/participant2_eng">Participant 2 ENG</a></td>
+<td><a href="https://your-username.github.io/your-repo-name/participant2_chn">Participant 2 CHN</a></td>
+</tr>
+<tr>
+<td><a href="https://your-username.github.io/your-repo-name/participant3_eng">Participant 3 ENG</a></td>
+<td><a href="https://your-username.github.io/your-repo-name/participant3_chn">Participant 3 CHN</a></td>
+</tr>
+<!-- Keep adding more participants as needed -->
+</tbody>
+</table>
   
 ## Copyright
 <div style="text-align: justify; line-height: 1.8; margin-bottom: 20px;">
