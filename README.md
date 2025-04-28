@@ -26,17 +26,17 @@ Reported PM₂.₅ concentrations for home PM₂.₅ concentration are raw and u
 - Contact information
 
 ## Home air quality report 
-Participants can read their home air quality report by assessing the unique URL sent to them.  
+Participants can view their home air quality report by assessing the unique URL sent to them or through the link below.  
 <table>
 <thead>
 <tr>
-<th>English Version</th>
-<th>Chinese Version</th>
+<th>English</th>
+<th>Chinese</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://your-username.github.io/your-repo-name/participant1_eng">Participant 1 ENG</a></td>
+<td><a href="https://linaang.github.io/home-air-quality-reports/14CTRaa.html">14CTRaa</a></td>
 <td><a href="https://your-username.github.io/your-repo-name/participant1_chn">Participant 1 CHN</a></td>
 </tr>
 <tr>
@@ -44,10 +44,14 @@ Participants can read their home air quality report by assessing the unique URL 
 <td><a href="https://your-username.github.io/your-repo-name/participant2_chn">Participant 2 CHN</a></td>
 </tr>
 <tr>
-<td><a href="https://your-username.github.io/your-repo-name/participant3_eng">Participant 3 ENG</a></td>
+<td></td>
 <td><a href="https://your-username.github.io/your-repo-name/participant3_chn">Participant 3 CHN</a></td>
 </tr>
-<!-- Keep adding more participants as needed -->
+<tr>
+<td></td>
+<td><a href="https://your-username.github.io/your-repo-name/participant4_chn">Participant 4 CHN</a></td>
+</tr>
+<!-- Add more rows as needed -->
 </tbody>
 </table>
   
