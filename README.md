@@ -28,10 +28,10 @@ Reported PM₂.₅ concentrations for home PM₂.₅ concentration are raw and u
 ## Home air quality report 
 Participants can view their home air quality report by assessing the unique URL sent to them or through the link below:  
 ### English reports
-- <a href="https://linaang.github.io/home-air-quality-reports/14CTRaa.html">14CTRaa</a>
+- <a href="https://linaang.github.io/home-air-quality-reports/14CTRaa.html" target="_blank">14CTRaa</a>
 
 ### Chinese reports
-- <a href="https://linaang.github.io/home-air-quality-reports/PC031_PC032.html">PC031,PC032</a>
+- <a href="https://linaang.github.io/home-air-quality-reports/PC031_PC032.html" target="_blank">PC031,PC032</a>
 
 <table>
 <thead>
